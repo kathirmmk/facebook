@@ -1,2 +1,1 @@
-Hello World,
-      This java file contains the DB connection logic 
+This java file contains the DB connection logic 
